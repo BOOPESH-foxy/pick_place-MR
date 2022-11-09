@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/user/kuka_iiwa/install/setup.sh
